@@ -15,8 +15,9 @@ This repository contains C++ implementation of Huffman Encoding and Decoding. It
     $ sh compile.sh
 
 2) The code requires 2 commandline inputs : 
-    a) Bit size for Lookup table (usually 4 or 8)
-    b) Input File name (for testing use SampleTextFile_500kb.txt or SampleTextFile_1000kb.txt)
+   a) Bit size for Lookup table (usually 4 or 8)
+   
+   b) Input File name (for testing use SampleTextFile_500kb.txt or SampleTextFile_1000kb.txt)
     
 3) The code can be run using following command :
     $ ./a.out 8 SampleTextFile_500kb.txt
