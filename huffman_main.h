@@ -15,7 +15,7 @@
 #include <sstream>
 #include <cassert>
 #include <functional>
-#include "huffman_utils.hpp"
+#include "huffman_utils.h"
 
 using namespace std;
 

@@ -4,7 +4,7 @@
 //  Author : Saurabh Goyal
 ///////////////////////////////
 
-#include "huffman_utils.hpp"
+#include "huffman_utils.h"
 
 
 void print_symbolCode_map(map<char,string> &symbolCode_map){
